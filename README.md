@@ -2,7 +2,7 @@
 - 😄 Pronouns: he/him
 -->
   
-# 🐺 André Lucas
+# 🐺 André Lucas 
 
 **`Desenvolvedor Frontend`**
 
