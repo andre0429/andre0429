@@ -96,5 +96,5 @@ Me chamo André Lucas, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
 <br/>
 <br/>
 
-![snake gif](https://github.com/andre0429/andre0429/blob/output/github-contribution-grid-snake.svg)
+
 
