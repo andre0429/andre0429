@@ -95,7 +95,7 @@ Me chamo André Lucas, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
 
 <br>
 <br>
-#
+
 
 
 <picture align="center">
