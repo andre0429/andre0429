@@ -93,6 +93,8 @@ Me chamo André Lucas, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br>
+<br>
 #
 
 
