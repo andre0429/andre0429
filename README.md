@@ -93,8 +93,8 @@ Me chamo André Lucas, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+#
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/andre0429/output/github-contribution-grid-snake-dark.svg">
