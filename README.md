@@ -7,7 +7,7 @@
 **`Desenvolvedor Frontend`**
 
 Me chamo André Lucas, tenho 20 anos e sou natural de Pernambuco. Concluí o ensino médio em 2022 e Atualmente, estou cursando Sistemas de Informação. Sou apaixonado por tecnologia e procuro sempre aprimorar as minhas habilidades.
-
+ 
 ---
 
 ###Linguagens e Tecnologias
