@@ -30,11 +30,10 @@ automações. Atualmente, estou direcionando meu foco para a área de
 
 Atuei com foco duplo em desenvolvimento de sistemas web e análise de dados
 para uso interno da instituição. No lado do desenvolvimento, trabalhei na
-criação e manutenção de sistemas utilizando Python com Django no back-end e
-tecnologias web no front-end. Na área de dados, fui responsável pela coleta,
-tratamento e análise de dados institucionais com Python e SQL, além da
-construção de dashboards em Power BI para apoiar a tomada de decisão das
-equipes internas.
+criação e manutenção de sistemas utilizando PHP tecnologias web no front-end.
+Na área de dados, fui responsável pela coleta,tratamento e análise de dados
+institucionais com Python e SQL, além da construção de dashboards em Power BI
+para apoiar a tomada de decisão das equipes internas.
 
 ---
 
@@ -65,6 +64,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
 <br><br>
 
