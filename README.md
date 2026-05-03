@@ -26,7 +26,7 @@ automações. Atualmente, estou direcionando meu foco para a área de
 ## Experiência
 
 **Estagiário de TI — Conselho Regional de Enfermagem de Pernambuco (COREN-PE)**
-`2024 · Recife, PE`
+`2025- · Recife, PE`
 
 Atuei com foco duplo em desenvolvimento de sistemas web e análise de dados
 para uso interno da instituição. No lado do desenvolvimento, trabalhei na
