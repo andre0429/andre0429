@@ -2,11 +2,11 @@
 - 😄 Pronouns: he/him
 -->
   
-# 🐺 André Lucas 
+#  André Lucas 
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor/Analista de Dados`**
 
-Me chamo André Lucas, tenho 20 anos e sou natural de Pernambuco. Concluí o ensino médio em 2022 e Atualmente, estou cursando Sistemas de Informação. Sou apaixonado por tecnologia e procuro sempre aprimorar as minhas habilidades.
+Me chamo André Lucas, tenho 21 anos e sou natural de Pernambuco. Concluí o ensino médio em 2022 e Atualmente, estou cursando Sistemas de Informação. Sou apaixonado por tecnologia e procuro sempre aprimorar as minhas habilidades.
  
 ---
 
