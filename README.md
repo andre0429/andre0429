@@ -45,22 +45,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br><br>
 
 ---
-
 ### GitHub Stats
 
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=andre0429&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"
-    onerror="this.style.display='none'"
+    src="https://streak-stats.demolab.com?user=andre0429&theme=tokyonight&hide_border=false&locale=pt_BR"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre0429&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800&v=2"
-    onerror="this.style.display='none'"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre0429&layout=compact&langs_count=7&theme=tokyonight"
   />
 </div>
-
 ---
 
 <picture>
