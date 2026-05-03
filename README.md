@@ -98,21 +98,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-origi
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=andre0429&theme=tokyonight&hide_border=false&locale=pt_BR"
-  />
-  <img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andre0429&theme=tokyonight"
-  />
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/andre0429/andre0429/output/github-contribution-grid-snake-dark.svg">
