@@ -91,10 +91,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-origi
 
 **BI & Visualização**
 
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
-<img align="left" alt="Excel" title="Excel Avançado" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 <br><br>
 
