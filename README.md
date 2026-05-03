@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Lucas 👋
 
 #  André Lucas 
-**`Estudante de Ciência de Dados | Analista de Dados`**
+**`Estudante de Ciência de Dados | Analista de Dados | Desenvolvedor`**
 
 Tenho 21 anos, sou de Pernambuco e estou cursando Sistemas de Informação.
 Apaixonado por transformar dados em insights, atualmente estou construindo
